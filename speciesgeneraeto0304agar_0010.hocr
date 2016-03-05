@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesgeneraeto0304agar_0010.png"; bbox 0 0 1779 3068; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 91 1228 1661 1347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 91 1228 1661 1347">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 1228 1661 1277; baseline 0.002 -13"><span class='ocrx_word' id='word_1_1' title='bbox 236 1229 474 1264; x_wconf 87' lang='lat' dir='ltr'>Meminisse</span> <span class='ocrx_word' id='word_1_2' title='bbox 501 1231 698 1275; x_wconf 87' lang='lat' dir='ltr'>opportet</span> <span class='ocrx_word' id='word_1_3' title='bbox 723 1228 892 1264; x_wconf 85' lang='lat' dir='ltr'>beatum</span> <span class='ocrx_word' id='word_1_4' title='bbox 919 1232 1135 1265; x_wconf 84' lang='lat' dir='ltr'>auctorem</span> <span class='ocrx_word' id='word_1_5' title='bbox 1161 1232 1323 1266; x_wconf 87' lang='lat' dir='ltr'><strong>tantum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1352 1231 1523 1277; x_wconf 85' lang='lat' dir='ltr'>paginas</span> <span class='ocrx_word' id='word_1_7' title='bbox 1544 1231 1661 1267; x_wconf 84' lang='lat'>1—96</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 91 1280 1278 1347; baseline 0 -12"><span class='ocrx_word' id='word_1_8' title='bbox 91 1301 219 1347; x_wconf 89' lang='lat' dir='ltr'>hujus</span> <span class='ocrx_word' id='word_1_9' title='bbox 246 1300 386 1346; x_wconf 88' lang='lat' dir='ltr'>operis</span> <span class='ocrx_word' id='word_1_10' title='bbox 413 1300 523 1346; x_wconf 87' lang='lat' dir='ltr'>typis</span> <span class='ocrx_word' id='word_1_11' title='bbox 550 1300 779 1346; x_wconf 87' lang='lat' dir='ltr'>impressas</span> <span class='ocrx_word' id='word_1_12' title='bbox 806 1300 1048 1346; x_wconf 83' lang='lat' dir='ltr'>inspexisse.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1273 1280 1278 1285; x_wconf 41' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1075 1395 1517 1445">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1075 1395 1517 1445">
+     <span class='ocr_line' id='line_1_3' title="bbox 1075 1395 1517 1445; baseline 0.005 -12"><span class='ocrx_word' id='word_1_14' title='bbox 1075 1395 1120 1434; x_wconf 90' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_15' title='bbox 1147 1396 1212 1434; x_wconf 90' lang='lat' dir='ltr'>W.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1239 1396 1283 1434; x_wconf 88' lang='lat' dir='ltr'>K.</span> <span class='ocrx_word' id='word_1_17' title='bbox 1311 1396 1517 1445; x_wconf 86' lang='lat' dir='ltr'>Gleerup.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
